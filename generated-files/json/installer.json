@@ -1,0 +1,20 @@
+{
+  "QPushButton": [
+    {
+      "name": "Button_next",
+      "icon": "Qss/icons/icons/material_design/navigate_next.png"
+    },
+    {
+      "name": "button_cancel",
+      "icon": "Qss/icons/icons/feather/x.png"
+    },
+    {
+      "name": "Tosearchfor",
+      "icon": "Qss/icons/icons/font_awesome/solid/magnifying-glass-plus.png"
+    },
+    {
+      "name": "pushButton_cancel_installing",
+      "icon": "Qss/icons/icons/font_awesome/solid/x.png"
+    }
+  ]
+}
