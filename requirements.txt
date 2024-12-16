@@ -1,0 +1,23 @@
+# Core Python Dependencies
+PySide2
+QT-PyQt-PySide-Custom-Widgets
+PySide2extn
+pywin32
+
+# File and System Utilities
+winshell
+pywin32-ctypes
+
+# Concurrent Processing
+concurrent-futures
+
+# Optional: For potential future enhancements
+typing
+setuptools
+
+# Development and Packaging Tools
+wheel
+pip
+
+# Note: Specific versions are recommended for reproducibility
+# Ensure compatibility with your specific Python version (3.7+)
