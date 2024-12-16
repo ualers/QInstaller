@@ -1,0 +1,53 @@
+{
+    "QMainWindow": [
+        {
+            "tittle":"Installer",
+            "frameless": true
+            
+        }
+    ],
+    "QCustomQStackedWidget":[
+		{
+			"name":"stackedWidget",
+			"transitionAnimation":[
+				{
+					
+					"slide":[
+						{
+							"active":true,
+							"duration": 1000,
+							"direction": "horizontal",
+							"easingCurve": "OutBack"
+						}
+					]
+				}
+			]
+		}
+
+
+	],
+    "QSettings": [
+        {
+            "ThemeSettings": [
+                {
+                    "CustomTheme": [
+                        {
+                            "Background-color": "#ffffff",
+                            "Text-color": "#000000",
+                            "Accent-color": "#0F9696",
+                            "Theme-name": "Light-Blue",
+                            "Default-Theme": true,
+                            "Icons-color": "#0F6464"
+                        }
+                    ]
+                }
+            ],
+            "AppSettings": {
+                "OrginizationName": "UrobotSoftware",
+                "ApplicationName": "UrobotSoftware Installer",
+                "OrginizationDormain": "Urobotsoftware.sellix.io"
+            }
+        }
+    ]
+
+}
