@@ -1,0 +1,8 @@
+# This file is created automatically.
+# Do not change it's access permissions or ownership!
+# You will need administrator permission to edit this file.
+# 
+# This file contains additional user-defined parameters for OpenVPN configuration.
+# All parameters defined here will be added to default OpenVPN configuration used by the IVPN Client.
+# All changes are made at your own risk!
+# We recommend keeping this file empty.
