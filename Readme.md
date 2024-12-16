@@ -4,7 +4,7 @@
 
 QInstaller is a custom Windows installer application designed to speed up the installation process of any software and its dependencies. Built using PySide2 and Python, this installer provides a user-friendly interface for installing software with several important features.
 
-![UI](1.mp4)
+![UI](1.gif)
 ## Features
 
 - **Graphical User Interface (GUI)**
